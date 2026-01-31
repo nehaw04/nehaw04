@@ -33,7 +33,7 @@ With hands-on experience in **Python, Salesforce (Apex/LWC), and Machine Learnin
 
 ---
 
-## 🚀 Technical Stack
+## 🚀 Technical Stack 
 
 ### Programming & Frameworks
 
