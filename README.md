@@ -122,17 +122,6 @@ With hands-on experience in **Python, Salesforce (Apex/LWC), and Machine Learnin
 - 📚 Deepening knowledge in **Deep Learning architectures**
 - 🌱 Contributing to **Open Source AI/ML projects**
 
----
-
-## 🎯 Goals for 2025
-
-- [ ] Secure a **Machine Learning/AI internship**
-- [ ] Contribute to **10+ open source projects**
-- [ ] Build **5 production-grade AI applications**
-- [ ] Master **Advanced Deep Learning** and **Transformer architectures**
-- [ ] Publish research paper on **Agentic AI systems**
-
----
 
 <div align="center">
 
