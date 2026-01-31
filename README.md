@@ -88,19 +88,14 @@ With hands-on experience in **Python, Salesforce (Apex/LWC), and Machine Learnin
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nehaw04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehaw04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nehaw04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehaw04&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" width="48%" />
 </div>
 
-
+<br />
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehaw04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehaw04&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="70%" />
 </div>
 ---
 
