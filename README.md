@@ -42,7 +42,7 @@ With hands-on experience in **Python, Salesforce (Apex/LWC), and Machine Learnin
 ### 📂 Featured Projects
 * 📁 **[AutoForm-AI](https://github.com/Neha-R/AutoForm-AI)**: Offline Transformer OCR System.
 * 🤖 **[Agentic Loan Automation](https://github.com/Neha-R/Agentic-Loan-Automation)**: AI-driven workflow automation.
-* 🤖 **[Agentic AI eBook Assistant](https://github.com/Neha-R/Agentic-Loan-Automation)**: AI-driven workflow automation.
+* 🤖 **[Agentic AI eBook Assistant](https://github.com/nehaw04/Agentic-AI-eBook-Assistant)**: Agentic RAG: Autonomous Document Intelligence System
 
 
 ---
