@@ -16,7 +16,7 @@ I am a pre-final year **Integrated M.Tech student in Artificial Intelligence & M
 
 With hands-on experience in **Python, Salesforce (Apex/LWC), and Machine Learning**, I focus on solving complex problems through data-driven insights and automation.
 
-- 🔭 **Current Focus:** Seeking internship opportunities for my pre-final year
+- 🔭 **Current Focus:** Building production-ready AI applications and exploring Agentic workflows
 - 🌱 **Learning:** Deepening expertise in Deep Learning, Agentic Workflows, and Advanced SQL
 - 💬 **Expertise:** Python, Salesforce Development, Machine Learning, and Competitive Programming
 - 🤝 **Collaboration:** Open to contributing to AI/ML and Open Source projects
